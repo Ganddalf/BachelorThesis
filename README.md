@@ -1,2 +1,0 @@
-# BachelorThesis
-test
